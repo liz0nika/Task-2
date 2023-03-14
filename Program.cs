@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Лаба_1._2__2_семестр_
+namespace code
 {
     internal class Program
     {
